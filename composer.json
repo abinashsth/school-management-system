@@ -45,13 +45,13 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.2",
         "barryvdh/laravel-dompdf": "^0.8.4",
         "bonecms/laravel-captcha": "^2.1",
         "fideloper/proxy": "^4.0",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.8",
         "hrshadhin/laravel-userstamps": "^2.0.1",
-        "laravel/framework": "^6.0",
+        "laravel/framework": "^11.0",
         "laravel/tinker": "^2.0",
         "laravelcollective/html": "^6.0",
         "maatwebsite/excel": "^3.1",
